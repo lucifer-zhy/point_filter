@@ -1,0 +1,8 @@
+prefix=/home/zhy/ros/test_ws/install
+
+Name: point_write_pkg
+Description: Description of point_write_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

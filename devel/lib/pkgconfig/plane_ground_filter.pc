@@ -1,0 +1,8 @@
+prefix=/home/zhy/ros/test_ws/devel
+
+Name: plane_ground_filter
+Description: Description of plane_ground_filter
+Version: 0.0.1
+Cflags: -I/home/zhy/ros/test_ws/src/plane_fit_ground_filter/include
+Libs: -L${prefix}/lib 
+Requires: roscpp sensor_msgs pcl_ros
